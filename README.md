@@ -4,7 +4,8 @@ This repo contains the jupyter notebook used to teach Single layer NN developmen
 ## Dependencies
 1. Tensorflow
 2. Matplotlib
-3. Curious Mind ;)
+3. Jupyter Notebook
+4. Curious Mind ;)
 
 ## Usage
 Run all cells of jupyter notebook in order to see the result.
